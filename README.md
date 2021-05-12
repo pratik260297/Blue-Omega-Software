@@ -1,0 +1,1 @@
+A software company website developed using RESTful API, MEAN Stack following best practices to allow creation/updating/reading/deletion of Employee and Project data. Designed front end with custom CSS to display JSON data for Employees and Projects.
